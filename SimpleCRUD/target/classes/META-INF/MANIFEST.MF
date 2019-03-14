@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SimpleCRUD
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cSalazar
+Implementation-Vendor-Id: com.csalazar.app
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SimpleCRUD
+Created-By: Maven Integration for Eclipse
+
